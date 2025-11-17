@@ -104,7 +104,7 @@ PORT=3000
 NODE_ENV=development
 
 # API
-API_VERSION=v1
+API_VERSION=/api/v1
 ```
 
 **เริ่มต้น MongoDB:**
